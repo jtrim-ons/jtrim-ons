@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! This repository contains code for my work at the Office for National Statistics. I have some other code here: https://github.com/jamestrimble
 
 <!--
 **jtrim-ons/jtrim-ons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
